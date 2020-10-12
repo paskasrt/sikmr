@@ -1,0 +1,105 @@
+body {
+    background-attachment: fixed;
+	font-family :Arial, Helvetica, sans-serif;
+	color: #9999ff;
+}
+
+.container {
+	width: 1150px;
+	height : 2000px;
+	background: #FFF;
+	margin: 0 auto; 
+	margin-top: 20px;
+	margin-bottom:20px;
+	border-radius: 7px;
+}
+
+.nav-container{
+	width: 1200px;
+	border:1px solid 00CCFF;
+	border-radius:7px;
+	background-color:#9999ff;
+	margin-left: -40px;
+	margin-bottom: 10px;
+}
+
+.foo{
+	color: white;
+	font-family: Californian FB;
+	font-size: 23px;
+}
+
+.f{
+	color: black;
+	font-family: arial;
+	font-size: 15px;
+}
+
+h1{ 
+	font-size :55px;
+	color: 0000CC;
+	font-family: High Tower Text;
+}
+
+h2{
+	color: blue;
+	font-size: 25px;
+}
+
+h4{
+	font-weight: 22px;
+	font-family: adobe hebrew;
+	color:3333FF;
+}
+
+h3{
+	font-size: 20px;
+	font-family: Californian FB;
+	color: #3399FF;
+}
+
+h5{
+	color:0000CC;
+	font-size:17px; 
+	font-family: Yu Mincho Demibold;
+}
+
+h6{
+	margin-left: 15px;
+	font-size:15px; 
+	color: 00CCFF;
+}
+
+.h55{
+	font-size: 23px;
+	font-weight: 15px;
+	margin-left: 17px;
+	color: 0000CC;
+}
+
+.h6{
+	font-size: 20px;
+	font-weight: 15px;
+	margin-left: 17px;
+	color: #0099cc;
+	font-family: Cambria Math;
+}
+
+.pp{
+	font-size: 15px;
+}
+
+th{
+	font-size: 20px;
+	text-align: center;
+	color: Green;
+	padding: 10px;
+}
+
+a {
+    -moz-transition: all 0.5s ease-out;  /* FF4+ */
+    -o-transition: all 0.5s ease-out;  /* Opera 10.5+ */
+    -webkit-transition: all 0.5s ease-out;  /* Saf3.2+, Chrome */
+    -ms-transition: all 0.5s ease-out;  /* IE10? */
+    transition: all 0.5s ease-out;  	
+}
